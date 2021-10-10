@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="hello-there-general-kenobi.gif" alt="Hello there" style="width:100%"/>
 
-<!--
-**mtokar3v/mtokar3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
 
-Here are some ideas to get you started:
+I'm Maxim Tokarev, Backend developer from <img src="izh.png" width="16px"/> **Izhevsk, Russia**, currently living in <img src="spb.png" width="16px"/> **St. Petersburg, Russia**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I code with:
+- **C#**
+- **JavaScript**
+- **SQL**
+- **ASP.NET core MVC**
+- **Entity Framework**
+- **HTML/CSS + Bootstrap**
+- **Git**
+- **Bush**
+
+### Pet projects:
+- [TrueStory (Infotainment community)](http://truestory.northeurope.cloudapp.azure.com/ "тык") : | ASP.NET core MVC | PostgreSQL | Bootstrap | JavaScript |
