@@ -12,7 +12,6 @@ I'm Maxim Tokarev, Backend developer from <img src="izh.png" width="16px"/> **Iz
 - **Entity Framework**
 - **HTML/CSS + Bootstrap**
 - **Git**
-- **Bush**
 
 ### Pet projects:
-- [TrueStory (Infotainment community)](http://truestory.northeurope.cloudapp.azure.com/ "тык") : | ASP.NET core MVC | PostgreSQL | Bootstrap | JavaScript |
+- **[TrueStory (Infotainment community)](http://truestory.northeurope.cloudapp.azure.com/ "тык") : | ASP.NET core MVC | PostgreSQL | Bootstrap | JavaScript |**
