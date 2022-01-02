@@ -5,8 +5,8 @@ Welcome to my page!
 I'm Maxim Tokarev, Backend developer from <img src="izh.png" width="16px"/> **Izhevsk**, currently living in <img src="spb.png" width="16px"/> **St. Petersburg, Russia**.
 
 ### Things I code with:
-- **.NET 6, .NET Framework 4.8**
-- **ASP.NET MVC, ASP.NET Web API**
+- **.NET 6/ .NET Framework 4.8**
+- **ASP.NET MVC/ ASP.NET Web API**
 - **JavaScript**
 - **SQL**
 - **Entity Framework**
